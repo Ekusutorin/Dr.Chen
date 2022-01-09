@@ -216,4 +216,4 @@ MAN                      MAN      MAN                             MAN     MAN   
 # Uptime Robot Connection
 keep_alive()
 #Bot Token
-bot.run('ODk0NTc0NTQ1NTk4NTU4MjM4.YVr_eA.5DD36rK7AgcrONY-FdjCPrIjNcA')
+bot.run(token)
