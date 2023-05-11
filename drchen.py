@@ -84,7 +84,7 @@ async def leave(ctx: commands.Context):
     for vc in bot.voice_clients:
         await vc.leave(force = True)
     await ctx.author.voice.channel.disconnect()
-    await ctx.send('Im out that Bitch')
+    await ctx.send('Im out')
 # Clear Command
 @bot.command()
 async def clear(ctx, amount=5):
