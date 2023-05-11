@@ -1,12 +1,3 @@
-# Dr.Chen
-****Bot might be offensive to some people****
+Dr. Chen was originally intended to be a database bot, but has since become a satire bot that primarily posts content that may be considered offensive to some. While the bot does include some useful features, such as the waifu.pics API, it is mainly a collection of pointless commands that do not have a significant impact. I am archiving this bot for future reference, so that others can see how far I have come in my coding abilities. Please feel free to use the code, but be aware that some features will remain private. Additionally, I co-developed this bot with xxxindiancion."
 
-****consider yourself warned****
-
-
-Well Dr.Chen was an idea to first make a database bot but ended up being a satire bot then does ntohign but shit post, the most the ive learned out of this bot is waifu.pics, which is an api than sends out urls then embed into discord and show "pretty pictures"
-someother useless commands have been implemented into the bot, nothing too game changing, if at all. 
-im just saving this bot here for future refernce for when ive improved almost by an inch (10 years or so), or maybe when I die, developers or friends can take a look back at how bad i was/am at coding
-feel free to copy the code ig, i wont be updating the bot on here, so ill keep some features private ig. :)
-also co-developed by xxxindiancion :)
-
+I hope this helps! Let me know if you have any further questions or concerns.
